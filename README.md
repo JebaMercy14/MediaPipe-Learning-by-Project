@@ -2,9 +2,6 @@
 > Time series are series of data points listed in time order.
 > Time series forecasting is the use of a model to predict future values based on previously observed values.
 
-# Problem Formulation - What are we trying to solve?
-> We want to forecast the GDP per Capita per country for the next 7 to 10 years
-
 # ARIMA:
 
 Uses a number of lagged observations of time series to forecast observations
